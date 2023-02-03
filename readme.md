@@ -12,4 +12,4 @@ Melhorei alguns conceitos de css e html, sendo eles: responsividade, flex-box, s
 
 ![image](./images/desktop-design.jpg)
 
-### ***[(Clique aqui para visualizar o projeto)](https://l-wendell.github.io/card-NFT/)***
+### ***[(Clique aqui para visualizar o projeto)](https://lucas-wendell.github.io/card-NFT/)***
